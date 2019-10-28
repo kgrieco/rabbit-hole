@@ -1,4 +1,4 @@
-module github.com/michaelklishin/rabbit-hole
+module github.com/kgrieco/rabbit-hole
 
 require (
 	github.com/golang/protobuf v1.3.2 // indirect
